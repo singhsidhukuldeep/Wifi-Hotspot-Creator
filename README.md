@@ -68,4 +68,4 @@ Website: [Kuldeep Singh Sidhu (Website)](http://kuldeepsinghsidhu.esy.es)
 `http://kuldeepsinghsidhu.esy.es`
 
 LinkedIn: [Kuldeep Singh Sidhu (LinkedIn)](https://www.linkedin.com/in/singhsidhukuldeep/)
-`https://www.linkedin.com/in/kuldeep-singh-sidhu-96a67170/`
+`https://www.linkedin.com/in/singhsidhukuldeep/`
